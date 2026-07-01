@@ -1,0 +1,18 @@
+{
+    "name": "MDR-Toolkit.Editor",
+    "rootNamespace": "MDR.Toolkit.Editor",
+    "references": [
+        "MDR-Toolkit.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
